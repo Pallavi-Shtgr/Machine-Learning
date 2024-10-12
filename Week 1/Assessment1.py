@@ -1,4 +1,4 @@
-# Import necessary libraries
+
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -11,8 +11,8 @@ data_size = 1000
 
 # Create sample data with features 'age', 'tenure', and target 'churn'
 data = {
-    'age': np.random.randint(18, 70, data_size),  # Age between 18 and 70
-    'tenure': np.random.randint(1, 10, data_size),  # Tenure between 1 and 10 years
+    'age': np.random.randint(18, 70, data_size),  
+    'tenure': np.random.randint(1, 10, data_size), 
     'churn': np.random.randint(0, 2, data_size)  # Churn: 0 (no) or 1 (yes)
 }
 
