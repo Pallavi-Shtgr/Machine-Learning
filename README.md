@@ -1,4 +1,4 @@
-# IBM Machine Learning Course
+# IBM MACHINE LEARNING INTERNSHIP 
 
 ## Introduction
 The **IBM Machine Learning Course** provides a comprehensive introduction to machine learning, equipping you with essential skills to build and deploy intelligent applications. You will learn about various machine learning algorithms, techniques, and tools, enabling you to solve complex problems and extract valuable insights from data.
@@ -72,7 +72,7 @@ The course combines **theoretical concepts** with **hands-on exercises** and **p
 
 ---
 
-For more information or to enroll in the course, visit the [IBM Machine Learning Course Page](https://www.ibm.com/skills/learn/machine-learning).
+For more information or to enroll in the course, visit the [IBM Machine Learning Course Page](https://adroitprolearn.in/course/view.php?id=420).
 
 ---
 
