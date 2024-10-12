@@ -1,0 +1,22 @@
+Report: Titanic Survival Prediction
+Introduction
+The Titanic dataset contains information about passengers, including variables like age, gender, class, and survival status. The goal of this analysis was to predict survival using machine learning.
+
+Data Preparation
+Data Cleaning:
+Missing values in Age were filled with the median, and missing Embarked values with the mode.
+Irrelevant columns (PassengerId, Name, Ticket, Cabin) were dropped.
+String Manipulation:
+Converted Sex and Embarked to lowercase and applied one-hot encoding to categorical variables.
+Basic Statistics
+Using NumPy:
+
+Mean Age: 29.70, Median Age: 28.00
+Mean Fare: 32.20, Median Fare: 14.45
+Modeling
+A Logistic Regression model was used to predict survival. The dataset was split into 80% training and 20% testing sets.
+
+Accuracy: 81% on the test set.
+Key Predictors:
+Gender: Females were more likely to survive.
+Class: 1st class passengers had higher survival rates.
