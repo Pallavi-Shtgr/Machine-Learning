@@ -4,7 +4,6 @@
 The **IBM Machine Learning Course** provides a comprehensive introduction to machine learning, equipping you with essential skills to build and deploy intelligent applications. You will learn about various machine learning algorithms, techniques, and tools, enabling you to solve complex problems and extract valuable insights from data.
 
 -----------------------------------------------------------------------------
-
 ## Course Objectives
 - 🔍 Understand the fundamentals of machine learning and its applications.
 - 🤖 Learn about different types of machine learning algorithms (supervised, unsupervised, reinforcement).
